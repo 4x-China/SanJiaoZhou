@@ -4,7 +4,7 @@
 
 # 其余程序更改py中的“if is_process_running("DeltaForceClient-Win64-Shipping.exe"): 
 ”DeltaForceClient-Win64-Shipping.exe这个改成要执行的程序名即可
-![Uploading 15acce53c4a6e7db3cd5ba15e80d8a49.png…]()
+
 
 
 
