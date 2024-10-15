@@ -5,9 +5,7 @@
 # 其余程序更改py中的“if is_process_running("DeltaForceClient-Win64-Shipping.exe"): 
 ”DeltaForceClient-Win64-Shipping.exe这个改成要执行的程序名即可
 
-
-
-
+https://github.com/4x-China/SanJiaoZhou/blob/main/1.png
 #github：https://github.com/4x-China/
 #哔哩哔哩：https://space.bilibili.com/1431664113?spm_id_from=333.337.0.0
 #QQ群：861822298
